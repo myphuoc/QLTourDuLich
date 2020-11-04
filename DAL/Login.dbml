@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLDuLich" Class="LoginDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-0RP6AU8\SQLEXPRESS;Initial Catalog=QLDuLich;Integrated Security=True" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="QLDuLichConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Addmin" Member="Addmins">
+    <Type Name="Addmin">
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

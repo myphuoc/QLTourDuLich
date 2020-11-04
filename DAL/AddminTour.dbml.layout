@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AddminTour">
+  <DataContextMoniker Name="/AddminTourDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c9970673-83ef-438a-9fed-4a593b7e4fbd" absoluteBounds="2.375, 1.625, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/AddminTourDataContext/Tour" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d94ad38b-1955-47a5-9627-90720a643227" absoluteBounds="2.3899999999999997, 2.085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ebaed71d-1b8c-42ae-8cb4-41da675080ad" absoluteBounds="5.5, 1.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AddminTourDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3bd7d3d-98e1-4666-ba51-c504d4b9f2ef" absoluteBounds="5.515, 1.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.375 : 2.64024983723958); (5.5 : 2.64024983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AddminTourDataContext/Tour/Tour_Customer" />
+      <nodes>
+        <classShapeMoniker Id="c9970673-83ef-438a-9fed-4a593b7e4fbd" />
+        <classShapeMoniker Id="ebaed71d-1b8c-42ae-8cb4-41da675080ad" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

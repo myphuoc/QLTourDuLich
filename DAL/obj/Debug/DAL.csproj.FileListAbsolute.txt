@@ -1,0 +1,7 @@
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\DAL\bin\Debug\DAL.dll.config
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\DAL\bin\Debug\DAL.dll
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\DAL\bin\Debug\DAL.pdb
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\DAL\obj\Debug\DAL.dll
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,10 @@
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\bin\Debug\BUS.dll
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\bin\Debug\BUS.pdb
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\bin\Debug\DAL.dll
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\bin\Debug\DAL.pdb
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\bin\Debug\DAL.dll.config
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\obj\Debug\BUS.dll
+E:\LapTrinhCSDL\WebQuanLiTourDuLich\BUS\obj\Debug\BUS.pdb
